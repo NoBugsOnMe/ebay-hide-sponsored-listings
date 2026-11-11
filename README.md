@@ -15,9 +15,9 @@ the listing if the label would actually be visible.
 
 ## Install
 
-1. Install a userscript manager such as Violentmonkey (https://violentmonkey.github.io/).
+1. Install a userscript manager such as [Violentmonkey](https://violentmonkey.github.io/).
 2. Open the script's raw URL and confirm the install prompt:
-   https://raw.githubusercontent.com/NoBugsOnMe/ebay-hide-sponsored-listings/main/ebay hide sponsored listings.user.js
+   https://raw.githubusercontent.com/NoBugsOnMe/ebay-hide-sponsored-listings/main/ebay-hide-sponsored-listings.user.js
 
 Updates are picked up automatically from the same URL.
 
@@ -35,4 +35,4 @@ right-click the `<html>` line and choose Copy > Outer HTML).
 
 ## License
 
-MIT. See LICENSE.
+MIT. See [LICENSE](LICENSE).
